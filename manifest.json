@@ -1,0 +1,21 @@
+{
+    "name": "Bar El Truco",
+    "short_name": "El Truco",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f5e9d0",
+    "theme_color": "#8b2323",
+    "icons": [
+      {
+        "src": "/icon-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/icon-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
